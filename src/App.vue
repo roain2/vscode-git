@@ -3,7 +3,7 @@
 <template>
   <RouterView />
   <h1>askdhsakldhsajd</h1>
-  <div>1</div>
+  <div><div>1</div></div>
 </template>
 <style lang="less">
 body,
