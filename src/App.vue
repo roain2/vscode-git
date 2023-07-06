@@ -2,6 +2,8 @@
 
 <template>
   <RouterView />
+  <h1>askdhsakldhsajd</h1>
+  <h2>sadsadasdsa</h2>
 </template>
 <style lang="less">
 body,
