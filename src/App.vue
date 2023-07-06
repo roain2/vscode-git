@@ -3,7 +3,10 @@
 <template>
   <RouterView />
   <h1>askdhsakldhsajd</h1>
+<<<<<<< HEAD
   <div><div>1</div></div>
+=======
+>>>>>>> parent of 8cca4f2... 第八次提交
 </template>
 <style lang="less">
 body,
